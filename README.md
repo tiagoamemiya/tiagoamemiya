@@ -22,6 +22,7 @@ Software Engineer :mount_fuji: :japanese_castle: Hajimemashite
   - API & Microservices
   - SOAP
   - Workers
+  - Python
   
 #### :weight_lifting: Improvements & Studies
   - K8s
