@@ -1,5 +1,5 @@
 ### :vulcan_salute: “live long and prosper”
-Software Engineer
+Software Engineer :mount_fuji: :japanese_castle: Hajimemashite
 #### :chopsticks: Main Skills
   - PHP
   - Laravel
@@ -32,4 +32,5 @@ Software Engineer
   - Culinária :bento:
   - Cinema & Filmes :clapper:
   - Desenho :framed_picture:
+  - Viagens & Novas cultruas :compass:
 
