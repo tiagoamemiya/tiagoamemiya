@@ -1,7 +1,6 @@
-### :vulcan_salute: Software Engineer
----------------
+### :vulcan_salute: “live long and prosper”
+Software Engineer
 #### :chopsticks: Main Skills
-------------------------------
   - PHP
   - Laravel
   - Javascript
@@ -16,6 +15,14 @@
   - Shell Script
   - PostgreSQL & MySQL & Oracle
   - MongoDB
+  - Clean Code & Clean Architecture
+  - Unit Tests
+  
+#### :thumbsup: likes and hobbies
+  - Corrida :running:
+  - Culinária :bento:
+  - Cinema & Filmes :clapper:
+  - Desenho :framed_picture:
 
 <!--
 **tiagoamemiya/tiagoamemiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
