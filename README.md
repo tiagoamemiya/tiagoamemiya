@@ -32,5 +32,4 @@ Software Engineer :mount_fuji: :japanese_castle: Hajimemashite
   - Culinária :bento:
   - Cinema & Filmes :clapper:
   - Desenho :framed_picture:
-  - Viagens & Novas cultruas :compass:
 
