@@ -28,5 +28,5 @@ Software Engineer :mount_fuji: :japanese_castle: Hajimemashite
   - Corrida :running:
   - Culinária :bento:
   - Cinema & Filmes :clapper:
-  - Desenho :framed_picture:
+  - Desenhar :framed_picture: :pencil2:
 
