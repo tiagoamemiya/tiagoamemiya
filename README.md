@@ -1,29 +1,26 @@
 ### :vulcan_salute: “live long and prosper”
 Software Engineer :mount_fuji: :japanese_castle: Hajimemashite
 #### :chopsticks: Main Skills
-  - PHP
-  - Laravel
-  - Psalm & PHP Insights & SonarQube
-  - OWASP
-  - Javascript
-  - Typescript
-  - NodeJS
-  - AWS
-  - Docker
-  - Vue
-  - CI/CD
-  - Gitlab & Github
-  - Linux
-  - Shell Script
-  - PostgreSQL & MySQL & Oracle
-  - MongoDB
-  - Clean Code & Clean Architecture
-  - Unit Tests
-  - API & Microservices
-  - SOAP
-  - Workers
-  - Python
-  
+
+  PHP / Laravel / CI-CD / Docker / Unit Test / Pest
+
+####: :hammer_and_wrench: Others Skills
+
+  Clean Code / Clean Architecture / Design Patterns
+
+  GIT / Gitflow / Psalm / PHP Insights / SonarQube / OWASP
+
+  Javascript / Typescript / NodeJS / Python / Jest
+
+  Linux / Shell Script / AWS 
+
+  Vue / HTML / CSS
+
+  PostgreSQL / MySQL / Oracle / MongoDB
+
+  Kubernetes / Kafka
+
+  API / REST / Micro Services / GraphQL / SOAP
 #### :weight_lifting: Improvements & Studies
   - K8s
   - Mensageria Kafka
