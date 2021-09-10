@@ -3,8 +3,7 @@ Software Engineer :mount_fuji: :japanese_castle: Hajimemashite
 #### :chopsticks: Main Skills
 
   PHP / Laravel / CI-CD / Docker / Unit Test / Pest
-
-####: :hammer_and_wrench: Others Skills
+#### :hammer_and_wrench: Others Skills
 
   Clean Code / Clean Architecture / Design Patterns
 
