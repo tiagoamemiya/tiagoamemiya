@@ -2,14 +2,13 @@
 Software Engineer :mount_fuji: :japanese_castle: Hajimemashite
 #### :chopsticks: Main Skills
 
-  PHP / Laravel / CI-CD / Docker / Unit Test / Pest
-#### :hammer_and_wrench: Others Skills
+  PHP / Laravel / CI-CD / Docker / Unit Test / Pest / Jest
+  
+  Golang / Typescript / NodeJS
 
-  Clean Code / Clean Architecture / Design Patterns
+  DDD / Clean Code / Clean Architecture / Design Patterns
 
   GIT / Gitflow / Psalm / PHP Insights / SonarQube / OWASP
-
-  Javascript / Typescript / NodeJS / Python / Jest
 
   Linux / Shell Script / AWS 
 
@@ -23,6 +22,7 @@ Software Engineer :mount_fuji: :japanese_castle: Hajimemashite
 #### :weight_lifting: Improvements & Studies
   - K8s
   - Mensageria Kafka
+  - Golang
 
 #### :thumbsup: Likes and hobbies
   - Corrida :running:
